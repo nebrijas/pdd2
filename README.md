@@ -1,13 +1,31 @@
 # PERIODISMO DE DATOS II: HERRAMIENTAS DIGITALES PARA LA VISUALIZACIÓN Y PRESENTACIÓN DE DATOS
 
+Este es el repositorio de la clase de **Periodismo de datos II: herramientas digitales para la presentación de datos**.
+
 ## Herramientas básicas
 1. Editor de textos
-[Atom](https://atom.io/)
+En esta ocasión vamos a utilizar un editor de textos que ya habéis usado, [Atom](https://atom.io/)
+
 2. Navegador
+Son interesantes estos dos navegadores:
 - [Firefox](https://mozilla.com/firefox)
 - [Chrome](https://www.google.com/chrome/)
+Pero también [Opera](https://opera.com).
+
 3. Intérprete de instrucciones
 A falta de un trabajo que podamos desarrollar con Cygwin o un emulador de terminal se desarrollará el trabajo posiblemente a través de [Jupyter](https://jupyter.org/)
+
+4. Buscadores
+Además de [Google](https://google.com), hay otros buscadores posibles, algunos de ellos incluso respetan la privacidad:
+- [Duckduckgo](https://duckduckgo.com)
+- [Startpage](https://startpage.com)
+
+Y otros comerciales que quizás ya conozcáis:
+- [Bing](https://bing.com)
+- [Yahoo!](https://yahoo.com)
+- [Yandex](https://yandex.com)
+
+5. Otras herramientas
 
 ## Herramientas de clase
 - [Pad](https://pad.riseup.net)
