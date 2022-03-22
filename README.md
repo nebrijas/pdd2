@@ -6,6 +6,28 @@ Este es el repositorio de la clase de **Periodismo de datos II: herramientas dig
 1. Editor de textos
 En esta ocasión vamos a utilizar un editor de textos que ya habéis usado, [Atom](https://atom.io/)
 
+### Problemas con Mac
+Hay que instalar [Brew](https://brew.sh). Para ello hay que ir a la **Terminal** que es un programa que está en *Aplicaciones > Utilidades > Terminal*
+
+Una vez que lo tengas, hay que poner en la terminal:
+
+```
+brew install github
+```
+
+Cuando termina dice:
+ Run these two commands in your terminal to add Homebrew to your PATH:
+
+Para ello hay que hacer dos cosas:
+```
+echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/marialuciarodriguezubina/.zprofile
+```
+Y luego
+
+```
+eval "$(/opt/homebrew/bin/brew shellenv)"
+```
+
 2. Navegador
 Son interesantes estos dos navegadores:
 - [Firefox](https://mozilla.com/firefox)
@@ -30,6 +52,7 @@ Y otros comerciales que quizás ya conozcáis:
 ## Herramientas de clase
 - [Pad](https://pad.riseup.net)
 - [Github](https://github.com)
+- [Git][https://git-scm.org]
 
 ## Actividades dirigidas
 ### AD1: comentario crítico
