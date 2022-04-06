@@ -1,6 +1,8 @@
 # PERIODISMO DE DATOS II: HERRAMIENTAS DIGITALES PARA LA VISUALIZACIÓN Y PRESENTACIÓN DE DATOS
 
-Enlace a [ad2.md](https://github.com/nebrijas/pdd2/blob/main/actividad-dirigida-2.md)
+Enlace a [ad2.md](actividad-dirigida-2.md)
+
+Otro enlace absoluto [/ad2.md](/actividad-dirigida-2.md)
 
 Este es el repositorio de la clase de **Periodismo de datos II: herramientas digitales para la presentación de datos**.
 
